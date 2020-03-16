@@ -1,4 +1,5 @@
 # Bouncing-Balls
+By Luc Barenghien
 A program that features bouncing balls.
 Left click adds balls
 Right click groups the balls
